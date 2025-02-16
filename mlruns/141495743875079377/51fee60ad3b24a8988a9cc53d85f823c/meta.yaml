@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/141495743875079377/51fee60ad3b24a8988a9cc53d85f823c/artifacts
+end_time: 1739724053362
+entry_point_name: ''
+experiment_id: '141495743875079377'
+lifecycle_stage: active
+run_id: 51fee60ad3b24a8988a9cc53d85f823c
+run_name: redolent-loon-250
+run_uuid: 51fee60ad3b24a8988a9cc53d85f823c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739724053183
+status: 4
+tags: []
+user_id: erand

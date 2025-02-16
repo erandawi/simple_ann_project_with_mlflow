@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/807885870902411993/76ee3d68133b486b8b81fb6f6aba29d2/artifacts
+end_time: 1739724077655
+entry_point_name: ''
+experiment_id: '807885870902411993'
+lifecycle_stage: active
+run_id: 76ee3d68133b486b8b81fb6f6aba29d2
+run_name: awesome-goose-162
+run_uuid: 76ee3d68133b486b8b81fb6f6aba29d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739724077380
+status: 4
+tags: []
+user_id: erand
