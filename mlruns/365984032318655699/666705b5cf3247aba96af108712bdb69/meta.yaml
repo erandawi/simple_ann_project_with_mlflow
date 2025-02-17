@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/666705b5cf3247aba96af108712bdb69/artifacts
+end_time: 1739801648112
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 666705b5cf3247aba96af108712bdb69
+run_name: selective-roo-884
+run_uuid: 666705b5cf3247aba96af108712bdb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801636233
+status: 3
+tags: []
+user_id: erand

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/4e61c91b497a4b20a93f87f079de2e68/artifacts
+end_time: 1739801514242
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 4e61c91b497a4b20a93f87f079de2e68
+run_name: adventurous-rook-494
+run_uuid: 4e61c91b497a4b20a93f87f079de2e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801502533
+status: 3
+tags: []
+user_id: erand

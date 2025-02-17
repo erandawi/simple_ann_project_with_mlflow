@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/7c49ea9498c048d795adb9b215b1bbda/artifacts
+end_time: 1739801660585
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 7c49ea9498c048d795adb9b215b1bbda
+run_name: incongruous-wolf-964
+run_uuid: 7c49ea9498c048d795adb9b215b1bbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801648146
+status: 3
+tags: []
+user_id: erand

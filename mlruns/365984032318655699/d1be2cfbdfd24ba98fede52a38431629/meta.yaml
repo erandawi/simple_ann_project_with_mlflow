@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/d1be2cfbdfd24ba98fede52a38431629/artifacts
+end_time: 1739801444932
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: d1be2cfbdfd24ba98fede52a38431629
+run_name: burly-slug-839
+run_uuid: d1be2cfbdfd24ba98fede52a38431629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801433507
+status: 3
+tags: []
+user_id: erand

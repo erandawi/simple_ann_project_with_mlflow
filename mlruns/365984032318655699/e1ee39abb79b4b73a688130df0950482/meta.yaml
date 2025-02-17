@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/e1ee39abb79b4b73a688130df0950482/artifacts
+end_time: 1739801624115
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: e1ee39abb79b4b73a688130df0950482
+run_name: silent-grub-762
+run_uuid: e1ee39abb79b4b73a688130df0950482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801611742
+status: 3
+tags: []
+user_id: erand

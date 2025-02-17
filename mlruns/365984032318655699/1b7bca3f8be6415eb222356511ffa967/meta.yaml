@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/1b7bca3f8be6415eb222356511ffa967/artifacts
+end_time: 1739801502504
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 1b7bca3f8be6415eb222356511ffa967
+run_name: puzzled-crab-864
+run_uuid: 1b7bca3f8be6415eb222356511ffa967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801490715
+status: 3
+tags: []
+user_id: erand

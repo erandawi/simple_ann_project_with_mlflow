@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/8f7321e4023542e1bd6e54dab5b1a714/artifacts
+end_time: 1739801456873
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 8f7321e4023542e1bd6e54dab5b1a714
+run_name: useful-loon-469
+run_uuid: 8f7321e4023542e1bd6e54dab5b1a714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801444960
+status: 3
+tags: []
+user_id: erand

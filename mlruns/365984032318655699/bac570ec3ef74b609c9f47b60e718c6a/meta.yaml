@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/bac570ec3ef74b609c9f47b60e718c6a/artifacts
+end_time: 1739801636203
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: bac570ec3ef74b609c9f47b60e718c6a
+run_name: orderly-bee-679
+run_uuid: bac570ec3ef74b609c9f47b60e718c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801624144
+status: 3
+tags: []
+user_id: erand

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/985d90c927ad4dee98160a7214796a6a/artifacts
+end_time: 1739801490688
+entry_point_name: ''
+experiment_id: '365984032318655699'
+lifecycle_stage: active
+run_id: 985d90c927ad4dee98160a7214796a6a
+run_name: wise-bug-48
+run_uuid: 985d90c927ad4dee98160a7214796a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739801479007
+status: 3
+tags: []
+user_id: erand

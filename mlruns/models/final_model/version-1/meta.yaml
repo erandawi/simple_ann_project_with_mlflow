@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739802155909
+current_stage: None
+description: ''
+last_updated_timestamp: 1739802155909
+name: final_model
+run_id: 95b82f6e71e04c9d95065ba87d6edd7c
+run_link: ''
+source: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/95b82f6e71e04c9d95065ba87d6edd7c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/erand/Documents/self_studies/simple_ann_project_with_mlflow/mlruns/365984032318655699/95b82f6e71e04c9d95065ba87d6edd7c/artifacts/model
+user_id: null
+version: 1
